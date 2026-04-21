@@ -85,4 +85,4 @@ Pull requests are not accepted on this repo. If you spot a bug or a typo, open a
 
 ---
 
-Built by [PyFi](https://pyfi.com). If you work through the notebooks and get stuck, the full walkthrough in the paid course will unstick you faster than any Stack Overflow thread.
+Built by [PyFi](https://pyfi.com). 
