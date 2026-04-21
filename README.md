@@ -1,4 +1,4 @@
-# pyfi-aml-demo
+# PyFi-Applied Machine Learning - demo
 
 Case study notebooks and datasets from PyFi's **Applied Machine Learning** class. This repo has been trimmed down to just the data and Jupyter notebooks so students (and the curious) can see the shape of the problem and run the models end-to-end without any app or infra scaffolding in the way.
 
